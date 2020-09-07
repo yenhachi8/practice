@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "CodeLens (Launch) - t1",
+            "request": "launch",
+            "mainClass": "t1",
+            "projectName": "gitPractice_4559f9f7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - t1",
+            "request": "launch",
+            "mainClass": "JavaTest.t1",
+            "projectName": "gitPractice_4559f9f7"
+        },
+        {
             "name": "clang++ - 建置及偵錯使用中的檔案",
             "type": "cppdbg",
             "request": "launch",
